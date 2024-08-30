@@ -1,5 +1,5 @@
 {
-  "name": "usecopy",
+  "name": "@idrisay/usecopy",
   "version": "1.0.0",
   "description": "Copy text to clipboard for all browsers",
   "main": "src/index.ts",
